@@ -1,0 +1,99 @@
+.main-nav{
+    background-color: rgba(32, 72, 147, 0.274);
+    padding-top: 23px;
+    padding-bottom: 23px;
+    border-radius: 23px;
+
+    
+}
+
+.home{
+    border-color: rgba(255, 255, 255, 0.455);
+    background-color: rgba(199, 199, 199, 0.473);
+    font-size: x-large;
+    padding: 12px;
+    margin-right: 45px;
+    padding-left: 45px;
+    padding-right: 45px;
+    border-radius: 32px;
+}
+
+.about{
+    border-color: rgba(255, 255, 255, 0.455);
+    background-color: rgba(199, 199, 199, 0.473);
+    font-size: x-large;
+    padding: 12px;
+    margin-right: 45px;
+    padding-left: 45px;
+    padding-right: 45px;
+    border-radius: 32px;
+
+}
+
+.contact{
+    border-color: rgba(255, 255, 255, 0.455);
+    background-color: rgba(199, 199, 199, 0.473);
+    font-size: x-large;
+    padding: 12px;
+    margin-right: 45px;
+    padding-left: 45px;
+    padding-right: 45px;
+    border-radius: 32px;
+
+}
+
+.other{
+    border-color: rgba(255, 255, 255, 0.455);
+    background-color: rgba(199, 199, 199, 0.473);
+    font-size: x-large;
+    padding: 12px;
+    margin-right: 23px;
+    padding-left: 45px;
+    padding-right: 45px;
+    border-radius: 32px;
+
+    
+
+}
+
+.search{
+    background-color: rgba(240, 248, 255, 0.596);
+    font-size: 23px;
+    border-radius: 23px;
+    padding-right: 67px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: x-large;
+
+    
+}
+
+body{
+    background-color: rgb(198, 224, 255);
+}
+
+.Web_title{
+    font-size: 90px;
+    font-style: unset;
+}
+
+.cou{
+    font-size: 89px;
+    font-style: oblique;
+}
+
+.pro1{
+    background-color: aliceblue;
+    border-color: black;
+    font-size: x-large;
+}
+
+.pr1{
+
+    font-size: xx-large;
+}
+
+.youtube123{
+    width: 720px;
+    height: 450px;
+}
